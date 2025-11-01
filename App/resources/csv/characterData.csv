@@ -1,0 +1,14 @@
+Name,TexturePath,Quality,EvolveTiming,EvolveAttributeType,BaseHealth,MaxHealth,EvolveHealthIncrease,HealthMulitplier,BaseStrength,MaxStrength,EvolveStrengthIncrease,StrengthMulitplier,BaseSpeed,MaxSpeed,EvolveSpeedIncrease,SpeedMulitplier
+微生物,resources/textures/biseibutu.png,NotEnemy,0,Health,50,80,5,1.8,10,40,3,1.8,10,30,3,1.8
+チコガネ,resources/textures/H1_tikogane.png,Common,1,Health,95,145,12,1.9,13,60,6,1.3,10,28,6,1.2
+アリ,resources/textures/P1_ari.png,Common,1,Strength,70,125,8,1.3,18,80,12,1.8,9,35,6,1.2
+蚊,resources/textures/S1_ka.png,Common,1,Speed,70,120,6,1.3,13,70,6,1.2,18,40,12,1.6
+カメレオン,resources/textures/H2_kamereon.png,Rare,2,Health,170,250,10,2.2,18,60,2,1.1,28,48,4,1.2
+カブトムシ,resources/textures/P2_kabutomushi.png,Rare,2,Strength,135,210,6,1.3,28,85,5,1.8,28,48,4,1.2
+蜂,resources/textures/S2_hati.png,Rare,2,Speed,120,190,6,1.3,14,60,3,1.1,40,65,10,2.0
+レロリー,resources/textures/H3_rerory.png,Epic,3,Health,230,310,8,2.4,20,65,2,1.15,40,65,4,1.3
+チカブ,resources/textures/P3_tikabu.png,Epic,3,Strength,200,280,6,1.3,30,80,4,1.8,38,65,4,1.3
+スビー,resources/textures/S3_subee.png,Epic,3,Speed,180,260,6,1.3,25,75,2,1.15,75,100,8,2.2
+体力型キメラ,resources/textures/H_kimechan.png,NotEnemy,0,Chimera,280,80,5,7.0,30,20,0,1.2,20,20,0,1.2
+攻撃型キメラ,resources/textures/P_kimechan.png,NotEnemy,1,Chimera,100,20,1,1.2,110,80,5,5.0,20,20,0,1.2
+速度型キメラ,resources/textures/S_kimechan.png,NotEnemy,2,Chimera,100,20,1,1.2,25,20,0,1.2,100,80,10,5.0
