@@ -11,7 +11,7 @@
 
 void Main()
 {
-	Window::SetTitle(U"Siv3D Sample");
+	Window::SetTitle(U"神化道");
 
 	TextureAsset::Register(U"StatusBack", Resource(U"resources/textures/Status_Back_Ground.png"));
 	TextureAsset::Register(U"ResultBack", Resource(U"resources/textures/Result_Back_Ground.png"));
