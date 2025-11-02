@@ -40,8 +40,7 @@ void ResultScene::draw() const
 	Rect(Arg::center(1050, 330), 350, 450).rounded(20).draw(Palette::Gray);
 
 	getData().myCharacter->draw();
-	//m_characterNameFont(m_name).drawAt(1000, 170);
-	m_characterNameFont(U"攻撃型決めラ").drawAt(1000, 170);
+	m_characterNameFont(m_name).drawAt(1000, 170);
 
 
 	for (int i = 0; i < 3; i++)
